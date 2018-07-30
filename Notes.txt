@@ -1,0 +1,23 @@
+Items to add to profile:
+
+Import Modules if they aren't already there
+	Active Directory
+
+Load Functions
+	tail
+	deployNewProfileScript
+	New-Explorer
+	Search-TextFile
+	uad (unlock-aduser)
+	
+Set Alias
+	Notepad++ w/ default of notepad
+	PSTools
+	pssession = ssh
+	
+Variables & Drives
+
+Set-Location to script folder
+
+Prompt
+	
